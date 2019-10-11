@@ -1,4 +1,4 @@
-# Breast-Cancer-Prediction-97-
+# Breast-Cancer-Prediction-97% Accuracy
 Breast Cancer Prediction using Xtreme Gradient Boost  Classifier Algorithm XGBClassifier with 0.9714285714285714% Accuracy
 --------------------------------------------------------------------------------------------------------------------------------
 Dataset taken from UCI Machine Learning Repository https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
