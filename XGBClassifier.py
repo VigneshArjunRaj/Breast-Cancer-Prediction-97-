@@ -63,3 +63,4 @@ class Classifiers:
         y_pred_prob=xgb.predict_proba(X_test)
         return y_pred,acc,cm,y_pred_prob
 c=Classifiers(data="breast-cancer-wisconsin.data",x=40,classval=10,a=1,b=9)
+c.XGBR()
